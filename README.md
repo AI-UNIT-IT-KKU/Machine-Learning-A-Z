@@ -19,7 +19,7 @@ Each topic folder includes:
 7. Natural Language Processing  
 8. Deep Learning (ANN, CNN)  
 9. Dimensionality Reduction (PCA, LDA)  
-10. Model Selection and Boosting (k-Fold CV, Grid Search, XGBoost, AdaBoost)
+10. Model Selection and Boosting (Model Selection , XGBoost)
 
 ## ⚙️ Requirements
  run it on Google Colab .
