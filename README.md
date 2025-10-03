@@ -8,7 +8,7 @@ The course covers the **foundations of Machine Learning** — from data preproce
 Each topic folder includes:
 - **`code.py`** → Python implementation of the algorithm.  
 - **`README.md`** → A clear explanation of the concept, steps, and code.
-- **`DATA.csv`** → A Data File.
+- **`Data.csv`** → A Data file.
 ## 📘 Course Topics
 1. Data Preprocessing  
 2. Regression (Simple, Multiple, Polynomial, SVR, Decision Tree, Random Forest)  
