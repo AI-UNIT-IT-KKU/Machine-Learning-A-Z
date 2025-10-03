@@ -22,11 +22,7 @@ Each topic folder includes:
 10. Model Selection and Boosting (k-Fold CV, Grid Search, XGBoost, AdaBoost)
 
 ## ⚙️ Requirements
-Before running any code, install the required Python libraries:
-```bash
-pip install -r requirements.txt
-
-Or run it on Google Colab .
+ run it on Google Colab .
 
 
 
