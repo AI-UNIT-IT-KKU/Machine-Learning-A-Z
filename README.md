@@ -30,8 +30,10 @@ Each topic folder includes:
 
 Each folder contains:
 
+```
 Algorithm-Name/
 ├── code.ipynb      # Python implementation of the algorithm
 ├── README.md       # Explanation and usage guide
 └── data.file       # Dataset used in the code
+```
 
